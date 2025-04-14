@@ -1,0 +1,8 @@
+
+
+extension FpjExtensionDouble on double{
+
+
+
+
+}
