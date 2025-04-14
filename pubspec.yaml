@@ -1,7 +1,7 @@
 name: fpj_core
 description: "MsrJie的Flutter封装基础库"
 version: 0.0.1
-homepage: "https://gitee.com/msr_jie/fpj_core"
+homepage: "https://github.com/PsjNick/fpj_core#"
 
 environment:
   sdk: ^3.5.3
